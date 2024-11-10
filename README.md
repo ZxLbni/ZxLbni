@@ -1,7 +1,7 @@
 
 <div style="font-family: Arial, sans-serif; color: #333;">
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img src="https://ibb.co/Y7RBvRn" alt="</> Labani Behera 's profile" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;" />
+<img src="https://drive.google.com/file/d/1k0RHMISfIV7USNYLGlVhKjAA5Hle-l11/view?usp=drivesdk" alt="</> Labani Behera 's profile" style="width: 100px; height: 100px; border-radius: 50%; margin-right: 20px;" />
 <div>
 <h2 style="font-size: 24px; color: #1F2937;"></> Labani Behera </h2>
 <p style="color: #4B5563;">Mobile Developer from India</p>
