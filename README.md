@@ -8,7 +8,7 @@
 <p align="center">
 <a href=https://telegram.dog/https://t.me/Noob_Je ><img alt="dev" width=150  src=./images/dev.png></a><br>
 <b>Name:</b> Labani Behera<br>
-<b>Studing at:</b>Bhubaneswar<br>
+<b>Studing at:</b> Bhubaneswar<br>
 </p>
 
 ## Skills :man_technologist:
